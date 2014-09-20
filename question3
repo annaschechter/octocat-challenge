@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Git branch is a repository which branches out from the master repository and allows you to work on two different versions of the project simultaneously.
